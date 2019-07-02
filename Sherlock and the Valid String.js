@@ -38,4 +38,4 @@ function isValid(s) {
 
 }
 
-console.log(isValid('aaab'))
+console.log(isValid('aabcc'))
